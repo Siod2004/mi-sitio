@@ -1,0 +1,20 @@
+body {
+    margin: 0;
+    padding: 0;
+    font-family: Arial, sans-serif;
+}
+
+.background {
+    background: url('https://i.pinimg.com/originals/03/7d/f6/037df6fdb14ea364415a7e6c70da4c22.gif');
+    background-size: cover;
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.name h1 {
+    color: white;
+    font-size: 3rem;
+    text-shadow: 2px 2px 5px black;
+}
